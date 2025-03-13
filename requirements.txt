@@ -6,3 +6,4 @@ transformers
 flask
 fastapi
 streamlit
+spacy
